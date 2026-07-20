@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pritampaul00/dsa-journey/tree/master/0055-jump-game) |
+| [1260-shift-2d-grid](https://github.com/pritampaul00/dsa-journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/pritampaul00/dsa-journey/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pritampaul00/dsa-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pritampaul00/dsa-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/pritampaul00/dsa-journey/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pritampaul00/dsa-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pritampaul00/dsa-journey/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
