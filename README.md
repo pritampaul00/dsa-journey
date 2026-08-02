@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pritampaul00/dsa-journey/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0059-spiral-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/pritampaul00/dsa-journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/pritampaul00/dsa-journey/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pritampaul00/dsa-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pritampaul00/dsa-journey/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pritampaul00/dsa-journey/tree/master/0062-unique-paths) |
+| [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pritampaul00/dsa-journey/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pritampaul00/dsa-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
