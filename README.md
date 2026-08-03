@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pritampaul00/dsa-journey/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0063-unique-paths-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/pritampaul00/dsa-journey/tree/master/1260-shift-2d-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0063-unique-paths-ii) |
 | [1260-shift-2d-grid](https://github.com/pritampaul00/dsa-journey/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pritampaul00/dsa-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pritampaul00/dsa-journey/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pritampaul00/dsa-journey/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0063-unique-paths-ii) |
 | [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 ## Math
 |  |
