@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pritampaul00/dsa-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pritampaul00/dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pritampaul00/dsa-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/pritampaul00/dsa-journey/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/pritampaul00/dsa-journey/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pritampaul00/dsa-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/pritampaul00/dsa-journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pritampaul00/dsa-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pritampaul00/dsa-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/pritampaul00/dsa-journey/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
