@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pritampaul00/dsa-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pritampaul00/dsa-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pritampaul00/dsa-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pritampaul00/dsa-journey/tree/master/0055-jump-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pritampaul00/dsa-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pritampaul00/dsa-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pritampaul00/dsa-journey/tree/master/0064-minimum-path-sum) |
 | [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pritampaul00/dsa-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pritampaul00/dsa-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
