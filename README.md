@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pritampaul00/dsa-journey/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pritampaul00/dsa-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pritampaul00/dsa-journey/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pritampaul00/dsa-journey/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/pritampaul00/dsa-journey/tree/master/1260-shift-2d-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/pritampaul00/dsa-journey/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/pritampaul00/dsa-journey/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pritampaul00/dsa-journey/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/pritampaul00/dsa-journey/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pritampaul00/dsa-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pritampaul00/dsa-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
