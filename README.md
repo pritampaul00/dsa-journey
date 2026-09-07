@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pritampaul00/dsa-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -229,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pritampaul00/dsa-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
