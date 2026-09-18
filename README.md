@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pritampaul00/dsa-journey/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/pritampaul00/dsa-journey/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pritampaul00/dsa-journey/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/pritampaul00/dsa-journey/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/pritampaul00/dsa-journey/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/pritampaul00/dsa-journey/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/pritampaul00/dsa-journey/tree/master/0089-gray-code) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pritampaul00/dsa-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pritampaul00/dsa-journey/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/pritampaul00/dsa-journey/tree/master/0089-gray-code) |
 | [1386-cinema-seat-allocation](https://github.com/pritampaul00/dsa-journey/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pritampaul00/dsa-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pritampaul00/dsa-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
