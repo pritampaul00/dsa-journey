@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/pritampaul00/dsa-journey/tree/master/0089-gray-code) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pritampaul00/dsa-journey/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/pritampaul00/dsa-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pritampaul00/dsa-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/pritampaul00/dsa-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pritampaul00/dsa-journey/tree/master/2029-stone-game-ix) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/pritampaul00/dsa-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
