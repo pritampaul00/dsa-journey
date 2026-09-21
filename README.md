@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pritampaul00/dsa-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pritampaul00/dsa-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pritampaul00/dsa-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/pritampaul00/dsa-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pritampaul00/dsa-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pritampaul00/dsa-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pritampaul00/dsa-journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pritampaul00/dsa-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pritampaul00/dsa-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pritampaul00/dsa-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3524-find-x-value-of-array-i](https://github.com/pritampaul00/dsa-journey/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/pritampaul00/dsa-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pritampaul00/dsa-journey/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pritampaul00/dsa-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/pritampaul00/dsa-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pritampaul00/dsa-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/pritampaul00/dsa-journey/tree/master/3871-count-commas-in-range-ii) |
